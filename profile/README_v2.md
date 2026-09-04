@@ -4,7 +4,7 @@
 
 <br/>
 
-U-Shift belongs to the Transportation System Research Group from CERIS (Civil Engineering Research and Innovation for Sustainability), part of the Civil, Architecture and Georesources Department of Instituto Superior Técnico.
+U-Shift belongs to the Transportation Systems Research Group from CERIS (Civil Engineering Research and Innovation for Sustainability), part of the Department of Civil Engineering, Architecture and Environment of Instituto Superior Técnico, University of Lisbon.
 
 <br/>
 <br/>
